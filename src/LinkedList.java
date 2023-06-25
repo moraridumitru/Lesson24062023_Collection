@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class LinkedList {
+//import java.util.List;
+//java.util.LinkedList;
+public class LinkedList {
+    public static void main(String[] args) {
+
+    }
+    //LinkedList<String>
 }
